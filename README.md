@@ -40,12 +40,12 @@ Se individuati come responsabili di un oggetto, bisogna almeno dare disponibilit
 ### Telecomandi LidarBot 
 | | |
 |-|-|
-| **Quantità**      | 2 |
-| **Descrizione**   | Telecomandi con 1 joystick e display LCD basati su ESP32 |
+| **Quantità**      | 2 
+| **Descrizione**   | Telecomandi con 1 joystick e display LCD basati su ESP32 
 | **Responsabile**  | samuele.burattini@unibo.it 
 | **Specifiche**    | https://docs.m5stack.com/en/app/lidarbot
-| **Risorse utili** |         |
-|  **Progetti**     |         |
+| **Risorse utili** |         
+|  **Progetti**     |         
 
 ### MyCobot
 | | |
